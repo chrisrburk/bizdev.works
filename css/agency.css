@@ -468,9 +468,9 @@ aside.clients img {
 
 section#join-now {
   background-color: #222222;
-  background-image: url("../img/map-image.png");
   background-position: center;
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  color: white; }
   section#join-now .section-heading {
     color: white; }
   section#join-now .form-group {

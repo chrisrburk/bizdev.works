@@ -537,9 +537,10 @@ aside.clients {
 
 section#join-now {
     background-color: $gray-darker;
-    background-image: url('../img/map-image.png');
+    // background-image: url('../img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
+    color: white;
     .section-heading {
         color: white;
     }
