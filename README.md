@@ -20,8 +20,8 @@ If you need to update the plugins included with this template, simply run the fo
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/chrisrburk/bizdev.works.git/issues) here on GitHub or [email the project owner](mailto:chris@canyon.media).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/chrisrburk/bizdev.works/issues) here on GitHub or [email the project owner](mailto:chris@canyon.media).
 
 ## Copyright and License
 
-Copyright 2017 Canyon.Media. Code released under the [MIT](https://github.com/chrisrburk/bizdev.works.git/LICENSE) license.
+Copyright 2017 Canyon.Media. Code released under the [MIT](https://github.com/chrisrburk/bizdev.works/blob/master/LICENSE) license.
